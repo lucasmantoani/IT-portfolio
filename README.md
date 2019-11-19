@@ -1,5 +1,5 @@
 # IT-portfolio
-Template Bootstrap de mon Portfolio en ligne
+Template Bootstrap de mon Portfolio en ligne.
 
 Bootstrap template of my online-portfolio.
 
