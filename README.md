@@ -20,3 +20,6 @@ _In order to use the template, just open the HTML file in your browser._
 *To modify the style (Colours, font, background) use the CSS file.*
 *To use icons, visit the Fontawesome website to get the list of all the avaliable icons. *
 
+## Demo
+
+[Live demo here](www.mantoani.fr)
