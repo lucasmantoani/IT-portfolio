@@ -22,4 +22,4 @@ _In order to use the template, just open the HTML file in your browser._
 
 ## Demo
 
-[Live demo here](www.mantoani.fr)
+[Live demo here](http://www.mantoani.fr)
