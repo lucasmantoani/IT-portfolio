@@ -18,10 +18,10 @@ Pour modifier le style (Couleurs, polices, fond) utilisez le fichier CSS.
 Pour utiliser des icônes, visitez le site de Fontawesome pour avoir une liste de toutes les icônes disponibles.
 Pour afficher votre propre calendrier Github, modifiez l'url avec le nom de votre compte.
 
-*In order to use the template, just open the HTML file in your browser.*
-*To modify the style (Colours, font, background) use the CSS file.*
-*To use icons, visit the Fontawesome website to get the list of all the avaliable icons. *
-*To add your own Github calendar, modify the URL to the one of your own account*
+*In order to use the template, just open the HTML file in your browser.*  
+*To modify the style (Colours, font, background) use the CSS file.*  
+*To use icons, visit the Fontawesome website to get the list of all the avaliable icons. *  
+*To add your own Github calendar, modify the URL to the one of your own account*  
 ## Demo
 
 [Live demo here](http://www.mantoani.fr)
