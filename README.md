@@ -1,4 +1,4 @@
-# IT-portfolio
+# IT-Dev-portfolio
 Template Bootstrap de mon Portfolio en ligne, avec projets et calendrier de contribution Github.  
 
 Bootstrap template of my online-portfolio, with projects and Github contriution calendar.  
