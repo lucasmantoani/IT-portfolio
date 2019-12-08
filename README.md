@@ -24,4 +24,4 @@ Pour afficher votre propre calendrier Github, modifiez l'url avec le nom de votr
 *To add your own Github calendar, modify the URL to the one of your own account*  
 ## Demo
 
-[Live demo here](http://www.mantoani.fr)
+[My own Portfolio here :](http://www.mantoani.fr)
