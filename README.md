@@ -1,4 +1,4 @@
-# IT-Dev-portfolio
+# IT-programmer-portfolio
 Template Bootstrap de mon Portfolio en ligne, avec projets et calendrier de contribution Github.  
 
 Bootstrap template of my online-portfolio, with view of some projects and Github contriution calendar.  
@@ -22,6 +22,6 @@ Pour afficher votre propre calendrier Github, modifiez l'url avec le nom de votr
 *To modify the style (Colours, font, background) use the CSS file.*  
 *To use icons, visit the Fontawesome website to get the list of all the avaliable icons. *  
 *To add your own Github calendar, modify the URL to the one of your own account*  
-## Demo
+## My portfolio online :
 
 [My own Portfolio here :](http://www.mantoani.fr)
